@@ -2,7 +2,7 @@
 Engineer with over 8 years of experience as a Python and Java Developer, with a strong knowledge of object-oriented design and a good understanding of design patterns principles. Responsible for the analysis, design, coding, testing, documentation and support of new software applications and enhancements to existing applications
 - 🔭 I’m currently working on **Apex Systems**
 
-- 👯 I’m looking to collaborate on **Amazing projects**
+- 👯 I’m looking to collaborate on **Python and Java projects**
 
 - 💬 Ask me about **Python and Java**
 
