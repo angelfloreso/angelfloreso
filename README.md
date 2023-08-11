@@ -8,7 +8,7 @@ Engineer with over 8 years of experience as a Python and Java Developer, with a 
 
 - 📫 How to reach me **afv9988@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/angel-flores-olivas/](https://www.linkedin.com/in/angel-flores-olivas/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/angelfloreso/](https://www.linkedin.com/in/angelfloreso/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
