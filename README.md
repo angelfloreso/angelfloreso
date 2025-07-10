@@ -1,5 +1,10 @@
 # Hi, I'm Angel Flores
-Engineer with over 10 years of experience as a Python and Java Developer, with a strong knowledge of object-oriented design and a good understanding of design patterns principles. Responsible for the analysis, design, coding, testing, documentation and support of new software applications and enhancements to existing applications
+Engineer with a master’s degree with over 10 years of experience as a Full Stack Developer, with a strong knowledge of object-oriented design and a good understanding of design patterns principles. 
+
+Experience in the implementation of Large Language Models (LLMs) and generative AI solutions. Successfully led initiatives integrating generative AI into enterprise applications. 
+
+Responsible for leading, analysis, design, coding, testing, documentation and support of new software applications and enhancements to existing applications.
+
 - 🔭 I’m currently working on **Apex Systems**
 
 - 👯 I’m looking to collaborate on **Python and Java projects**
